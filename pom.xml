@@ -21,10 +21,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/com.clickhouse/clickhouse-jdbc -->
-    <!-- https://mvnrepository.com/artifact/com.clickhouse/clickhouse-jdbc -->
-    <!-- https://mvnrepository.com/artifact/com.clickhouse/clickhouse-jdbc -->
-    <!-- https://mvnrepository.com/artifact/com.clickhouse/clickhouse-jdbc -->
     <dependency>
       <groupId>com.clickhouse</groupId>
       <artifactId>clickhouse-jdbc</artifactId>
